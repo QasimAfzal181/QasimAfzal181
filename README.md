@@ -15,10 +15,10 @@ Future Projects:
 - Top-down Survival shooting game using Unity
 Things I learnt:
 - Active Directory
-- Troubleshooting & Documentation
+- Troubleshooting (windows clients/servers/networking & Documentation)
 - Basic of Networking
 - Remove Desktop Connection
 - WDS; how to setup / what it is
 - Sharepoint ; what it is/how to use
 - M365: what it is; and explored different tools for it; 
-
+- Backing up servers/windows
