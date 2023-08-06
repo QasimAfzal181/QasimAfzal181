@@ -19,7 +19,7 @@ Things I learnt:
 - Proj1000 - implement a network diagram w users for different services; WDS etc..
 
 Game Projects:
-- 2D Platformer Game
+- 2D Platformer Game (Not finished)
 
 Blender Projects:
 - Low poly trees
