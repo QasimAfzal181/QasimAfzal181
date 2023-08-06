@@ -8,6 +8,7 @@ Things I learnt:
 - Sharepoint ; what it is/how to use
 - M365: what it is; and explored different tools for it; 
 - Backing up servers/windows
+- Linux
 
   Python Projects:
 - 
