@@ -1,4 +1,4 @@
-Hello! I am a CNA student at NAIT.
+Hello! I am an Computer Network Administrator (CNA) student at NAIT.
 Soon to Learn about: 
 - Python
 - Virtualization
