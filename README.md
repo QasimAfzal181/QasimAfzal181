@@ -9,17 +9,17 @@ Things I learnt:
 - M365: what it is; and explored different tools for it; 
 - Backing up servers/windows
 
-
-
-- Python Projects:
+  Python Projects:
 - 
-- Virtualization Projects:
+  Virtualization Projects:
 - 
-- Projects completed in course:
+
+ Projects completed in course:
 - Proj1000 - implement a network diagram w users for different services; WDS etc..
 
 Game Projects:
 - 2D Platformer Game
+
 Blender Projects:
 - Low poly trees
 - Low poly wood logs
