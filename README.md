@@ -11,7 +11,9 @@ Things I learnt:
 - Linux
 
   Python Projects:
-- 
+- Validating IP Address
+- Files
+- Command Line Argument Files
   Virtualization Projects:
 - 
 
