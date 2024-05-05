@@ -1,4 +1,6 @@
- I am an Computer Network Administrator (CNA) graduate from NAIT.
+ Greetings!
+About me: 
+I am a Computer Network Administrator (CNA) graduate from NAIT.
 
 Things I learnt:
 - Active Directory
