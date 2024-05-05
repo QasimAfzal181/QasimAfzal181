@@ -1,4 +1,5 @@
-Hello! I am an Computer Network Administrator (CNA) student at NAIT.
+Hello! I am an Computer Network Administrator (CNA) graduate from NAIT.
+
 Things I learnt:
 - Active Directory
 - Troubleshooting (windows clients/servers/networking & Documentation)
@@ -9,24 +10,23 @@ Things I learnt:
 - M365: what it is; and explored different tools for it; 
 - Backing up servers/windows
 - Linux
+- Hyper-V
+- vmware Vsphere
+- ESXI servers
 
   Python Projects:
 - Validating IP Address
 - Files
 - Command Line Argument Files
+
+  
   Virtualization Projects:
-- 
+- Hyper-V environment
 
- Projects completed in course:
-- Proj1000 - implement a network diagram w users for different services; WDS etc..
-
-Game Projects:
-- 2D Platformer Game (Not finished)
+ Capstone Project:
+- Proj1000 - In a group of 5, we build a network virtual infrastructure with over 350 users and 6 clients and use of different servicies to manage the environment. 
 
 Blender Projects:
 - Low poly trees
 - Low poly wood logs
-- Gaming room: has table with 2 monitor (1 has a stand) + sofa with a tv on the wall (not finished)
-Future Projects:
-- Top-down Survival shooting game using Unity
-- Low poly 3D Modeling using Blender (basic likes wood logs; trees) 
+- Gaming room: has table with 2 monitor (1 has a stand) + sofa with a tv on the wall (in-progress)
