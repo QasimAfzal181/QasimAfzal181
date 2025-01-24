@@ -17,6 +17,7 @@ Skills and Knowledge:
 💻 Python Projects (Assignments):
 
 1. User Input with Error Detection
+   
 Objective:
 • Prompt users to enter two numbers and handle invalid input gracefully.
 • Display the smaller and larger number after comparison.
@@ -26,7 +27,7 @@ Key Deliverables:
  • Flowchart in Visio.
  • Pseudocode matching the flowchart.
 
-2. IPv4 Address Validation
+2. IPv4 Address Validation:
 
 Objective:
 • Validate an IPv4 address entered in dotted decimal format.
@@ -48,8 +49,8 @@ Objective:
 Key Deliverables:
 • Python program with modular, structured, and well-documented code.
 • File Management: Tools for file operations and organization.
-• Command Line Argument Parser: Handling files through command-line arguments.
----------------------------------------------------------------------------------
+• Command LIne Argument Parser: Handling files through command-line arguments.
+
 4. File Processing with Command-Line Arguments
 Objective:
  • Create a Python program to read, modify, and write file content based on command-line arguments.
@@ -76,12 +77,11 @@ Key Features:
 • Executable Conversion: The Python script is converted into a standalone executable file using PyInstaller for cross-platform compatibility.
   
 🌐 Virtualization Projects
-•Hyper-V Environment: Built a functional environment to test and deploy virtual machines.
+• Hyper-V Environment: Built a functional environment to test and deploy virtual machines.
 
-
-
-🚀 Capstone Project
- Project1000: Collaborated in a team of 5 to create a network virtual infrastructure supporting:
+🚀 Capstone Project:
+About: 
+Collaborated in a team of 5 to create a network virtual infrastructure supporting:
  • Over 350 users.
  • 6 clients.
  • Various services to manage and maintain the environment efficiently.
