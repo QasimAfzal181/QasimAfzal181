@@ -2,3 +2,21 @@
 |# User Input Detection File |
 |# Created by: Qasim Afzal   |
 ```````````````````````````````
+Pseducode:
+Define 2 variable: Num1 and Num2 equal to 0 | Num1 will be the 1st number they typed and num2 will be the second number they typed.
+User gets prompt to enter 1st number or if they type quit they will exit the program.
+If the user didn't typed: "Quit", they will be promt to enter another number.
+Check if the user has typed more than 2 numbers, if yes, display an error message: "Try again, you entered more than 2 numbered, enter 2 numbers only." and the user have to restart.
+if the user hasn't typed more than 2 numbers, user can proceed to the next.
+check if user has typed valid numeric number for the 2 number they enter, if they aren't, an error message will show and they will need to restart it: "numbers are not valid".
+If the user has typed valid numeric number, proceed.
+Check if 1st number entered by user is equal to number 2 entered by user, if it is, a message will say: Both number are equal user will repeat from input 1st and second numbers
+if they aren't the same / equal number, check if the 1st number is less than number 2, indicate which is smaller number or larger.
+display a message: the larger number is the 2nd number, and the small number is 1st number then repeat the whole process again.
+If the 1st number that the user entered is larger than the second number entered by the user, indicate which is big and small by comparing then displaying a message
+Display: the larger number is the 1st number , the small number is 2nd number. 
+repeat the process again until the user entered quit
+
+
+
+
